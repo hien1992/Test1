@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F5FAC119-03E9-4322-92D7-F5739BA19CEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.Android/MainActivity.cs">
+    <Files>
+      <File FileName="App.iOS/AppDelegate.cs" Line="28" Column="28" />
+      <File FileName="App.Android/MainActivity.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestGit1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
